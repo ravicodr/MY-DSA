@@ -16,3 +16,9 @@ for (let row = 0; row < nr; row++){
     final_ans += "\n";
 }
 console.log (final_ans);
+/*
+33333
+32223
+32123
+32223
+33333 */
